@@ -26,13 +26,13 @@ In this project you'll take this crypto currency tracker app and build two custo
 * [X] Create a new folder called `hooks.`
 * [X] Create a file called `useDarkMode.js`.
 * [X] Build a hook that ONLY setups a boolean state value. This value governs if dark mode is on or off.
-* [ ] Return the slice of state created and the state modification function.
-* [ ] Replace the darkMode state definition with useDarkMode in index.js.
+* [X] Return the slice of state created and the state modification function.
+* [X] Replace the darkMode state definition with useDarkMode in index.js.
 
 #### Build a useLocalStorage hook
-* [ ] Create a file called `useLocalStorage.js`.
-* [ ] Build a hook called that takes in a key value and an initialValue.
-* [ ] Use the code from GP to build the the hook.
+* [X] Create a file called `useLocalStorage.js`.
+* [X] Build a hook called that takes in a key value and an initialValue.
+* [X] Use the code from GP to build the the hook.
 
 #### Compose useLocalStorage around useDarkMode
 * [ ] Import useLocalStorage into the useDarkMode hook.

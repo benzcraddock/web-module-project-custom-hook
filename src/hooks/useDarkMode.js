@@ -1,4 +1,4 @@
-// build useDarkMode component
+// build useDarkMode hook
 import { useState } from 'react';
 
 const useDarkMode = (initialValue) => {
